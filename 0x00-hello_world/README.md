@@ -1,1 +1,1 @@
-Generating assembly code of C
+Compile C and make it executable
