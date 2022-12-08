@@ -1,1 +1,1 @@
-Compile C and make it executable
+Printing a string in c
