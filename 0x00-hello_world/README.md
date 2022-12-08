@@ -1,1 +1,1 @@
-Running C file through processor and save the result in to another file
+Compile C but does not  link
