@@ -1,1 +1,1 @@
-Printing random number tpe
+Printing the last digit
