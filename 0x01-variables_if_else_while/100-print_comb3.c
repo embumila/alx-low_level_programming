@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - In ascending oorder display all possible combinations of two different digits,
- *        separated by a comma followed by a space.
+ * main - In ascending oorder display all possible combinations of two different digits,separated by a comma followed by a space.
  *
  * Return: Always 0.
  */
