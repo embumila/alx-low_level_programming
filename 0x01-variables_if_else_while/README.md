@@ -1,1 +1,1 @@
-Display all possible combinations of two numbers
+Displaying  the possible combination
