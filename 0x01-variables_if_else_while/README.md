@@ -1,1 +1,1 @@
-Number  in base 16
+All possible combinatio of single-digit numers
