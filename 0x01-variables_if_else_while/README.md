@@ -1,1 +1,1 @@
-Printing alphabetic lowercase and then the upercase
+Printing all aphabetics in lowercase except e and  q
