@@ -1,1 +1,1 @@
-Displaying  the possible combination
+Printing all posible commbination
