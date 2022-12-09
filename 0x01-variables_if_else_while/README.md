@@ -1,1 +1,1 @@
-All possible combinatio of single-digit numers
+Display all possible combinations of two numbers
