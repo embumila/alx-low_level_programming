@@ -1,1 +1,1 @@
-Printing all aphabetics in lowercase except e and  q
+Displaying base 10 number from 0
