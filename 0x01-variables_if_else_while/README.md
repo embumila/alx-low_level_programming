@@ -1,1 +1,1 @@
-Working on alphabetic in lowercase
+Printing alphabetic lowercase and then the upercase
