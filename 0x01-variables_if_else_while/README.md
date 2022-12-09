@@ -1,1 +1,1 @@
-Printing the last digit
+Working on alphabetic in lowercase
