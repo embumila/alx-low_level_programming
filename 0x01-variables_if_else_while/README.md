@@ -1,0 +1,1 @@
+Printing random number tpe
