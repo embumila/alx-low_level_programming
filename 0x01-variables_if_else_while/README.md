@@ -1,1 +1,1 @@
-Displaying base 10 number from 0
+Displaying base 10 number using putcher
