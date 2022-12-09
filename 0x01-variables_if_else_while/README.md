@@ -1,1 +1,1 @@
-Displaying base 10 number using putcher
+Reversing lowercase alphabets
