@@ -1,1 +1,1 @@
-Printing alphabet x10 times
+check for the lowercase character
