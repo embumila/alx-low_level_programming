@@ -4,6 +4,7 @@
 
 /**
  * _islower - Examine for lower case character
+ *@c: is the character is being chacked
  *
  * Return: 1 if lowercase character identified else 0
  */
