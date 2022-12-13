@@ -4,7 +4,7 @@
  * _isalpha - Determin  alphabetic character
  * @c:Is the character being evaluated
  *
- * Return: 1 if it is an alphabetic character else  0 for 
+ * Return: 1 if it is an alphabetic character else  0 for
 */
 int _isalpha(int c)
 {
