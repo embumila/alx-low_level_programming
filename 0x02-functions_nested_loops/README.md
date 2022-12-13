@@ -1,1 +1,1 @@
-check for the lowercase character
+Determine alphabet character
