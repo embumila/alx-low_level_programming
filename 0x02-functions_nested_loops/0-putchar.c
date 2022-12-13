@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include "putchar.h"
 /**
  * main -Display the string "_putcha" from a character array.
  * Return: 0 on success.
