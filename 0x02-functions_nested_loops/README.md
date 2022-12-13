@@ -1,1 +1,1 @@
-Printing small letter alphabets
+Printing alphabet x10 times
