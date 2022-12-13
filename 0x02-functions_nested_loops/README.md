@@ -1,1 +1,1 @@
-Display putchar string
+Printing small letter alphabets
