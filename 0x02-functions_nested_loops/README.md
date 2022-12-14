@@ -1,1 +1,1 @@
-sum even fibonnacc
+Printing first 98 fibonacci
