@@ -1,1 +1,1 @@
-100-times table
+Printing sum of number below 1024
