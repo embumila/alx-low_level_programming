@@ -1,1 +1,1 @@
-Add two interger and return result
+Printing all natural number
