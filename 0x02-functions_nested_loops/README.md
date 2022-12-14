@@ -1,1 +1,1 @@
-Printing the 9 times table
+Add two interger and return result
