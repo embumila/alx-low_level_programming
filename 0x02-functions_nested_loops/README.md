@@ -1,1 +1,1 @@
-Displaying the last digit of a number
+Printing every minutes of the day
