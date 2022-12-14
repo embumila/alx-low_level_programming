@@ -1,1 +1,1 @@
-Printing all natural number
+100-times table
