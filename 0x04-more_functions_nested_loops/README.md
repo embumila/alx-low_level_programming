@@ -1,1 +1,1 @@
-Printing Fizz Buzz
+Printing triagle
