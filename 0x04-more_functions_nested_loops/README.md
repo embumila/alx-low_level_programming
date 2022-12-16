@@ -1,1 +1,1 @@
-printing the number from 0-9
+Printing number from 0-9
