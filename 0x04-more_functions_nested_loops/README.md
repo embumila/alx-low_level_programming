@@ -1,1 +1,1 @@
-Drawing a straight line
+Drawing a diagonal line
