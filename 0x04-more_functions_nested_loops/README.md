@@ -1,1 +1,1 @@
-Checking if is a digit 
+Multiplying two interger
