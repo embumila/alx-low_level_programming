@@ -1,1 +1,1 @@
-Multiplying two interger
+printing the number from 0-9
