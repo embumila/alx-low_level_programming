@@ -1,1 +1,1 @@
-Checking the upercase
+Checking if is a digit 
