@@ -1,1 +1,1 @@
-Printing the largest prime factor
+Printing interger
