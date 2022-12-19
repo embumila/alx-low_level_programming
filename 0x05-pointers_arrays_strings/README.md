@@ -1,1 +1,1 @@
-Printing every other character of the string
+Printing half of the string
