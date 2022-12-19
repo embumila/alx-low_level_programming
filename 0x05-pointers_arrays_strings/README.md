@@ -1,1 +1,1 @@
-Printing half of the string
+Printing array
