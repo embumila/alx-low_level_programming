@@ -1,1 +1,1 @@
-Printing array
+Copy string
