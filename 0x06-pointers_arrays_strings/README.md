@@ -1,1 +1,1 @@
-Compare two strings
+Reverse array contents
