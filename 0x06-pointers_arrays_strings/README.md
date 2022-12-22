@@ -1,1 +1,1 @@
-Reverse array contents
+Change all lowercase string to upercase string
