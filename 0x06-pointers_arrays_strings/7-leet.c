@@ -1,30 +1,26 @@
-
-
-#include "mqin.h"
+#include "main.h"
 
 /**
- * leet - Write a function that encodes a string into 1337
- *
- * @changed: This is the input string
- *
- * Return: String converted to 1337
+ * leet - Entry point
+ * ONE if, TWO loops only...
+ * @n: input
+ * Return: Always 0 (Success)
  */
-
-char *leet(char *changed)
+char *leet(char *n)
 {
-int index, j;
-char minus[] = {'a', 'e', 'o', 't', 'l', '\0'};
-char mayus[] = {'A', 'E', 'O', 'T', 'L', '\0'};
-char numbers[] = {'4', '3', '0', '7', '1', '\0'};
-for (index = 0; changed[index] != '\0'; ++index)
+int i, x;
+int find[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'};
+int replacer[] = {'4', '3', '0', '7', '1'};
+for (i = 0; n[i] != '\0'; i++)
 {
-for (j = 0; j < 5; j++)
+for (x = 0; x <= 9; x++)
 {
-if (changed[index] == minus[j] || changed[index] == mayus[j])
+if (n[i] == find[x])
 {
-changed[index] = numbers[j];
+n[i] = replacer[x / 2];
+x = 9;
 }
 }
 }
-return (changed);
+return (n);
 }
