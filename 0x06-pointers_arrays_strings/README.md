@@ -1,1 +1,1 @@
-Copying the  strings
+Compare two strings
