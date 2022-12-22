@@ -1,1 +1,1 @@
-Encoding string into a number
+Encoding string using rot13
