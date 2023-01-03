@@ -1,1 +1,1 @@
-Print the chessbord
+Sum of the two diagonal
