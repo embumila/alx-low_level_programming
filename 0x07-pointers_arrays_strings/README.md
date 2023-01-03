@@ -1,1 +1,1 @@
-Function that locate character on a string
+Length of the prefix sting
