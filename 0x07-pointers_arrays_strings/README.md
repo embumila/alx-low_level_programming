@@ -1,1 +1,1 @@
-Length of the prefix sting
+Search string for any set of the byte
