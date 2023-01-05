@@ -1,2 +1,2 @@
 Printing string in reverse
-Length of  the string3. Factorial of a given number 04. Value of x raised by power of y 05. Return natural square root of a number 06. Checking if interger is prime 07. Check if the string is palindrome
+Length of  the string3. Factorial of a given number 04. Value of x raised by power of y 05. Return natural square root of a number 06. Checking if interger is prime 07. Check if the string is palindrome 08. Checking if string are identical
