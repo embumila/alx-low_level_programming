@@ -1,1 +1,1 @@
-Allocating memory for an array
+Create an array of an interger
