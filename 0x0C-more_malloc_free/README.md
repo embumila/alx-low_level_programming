@@ -1,1 +1,1 @@
-Concatinates two strings
+Allocating memory for an array
