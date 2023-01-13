@@ -1,1 +1,1 @@
-Allocating memeory
+Concatinates two strings
