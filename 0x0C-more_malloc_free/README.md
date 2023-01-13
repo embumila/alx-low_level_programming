@@ -1,1 +1,1 @@
-Create an array of an interger
+Relocating memory  block using malloc and free
