@@ -1,1 +1,1 @@
-Copping a string as a parameter
+Concatinates  two strings
