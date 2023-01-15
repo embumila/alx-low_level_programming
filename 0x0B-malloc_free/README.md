@@ -1,1 +1,1 @@
-freezing 2 dimention grid
+concatinates all the argument
