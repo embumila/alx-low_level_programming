@@ -1,1 +1,1 @@
-Printing the product of two number
+Adds positive number
