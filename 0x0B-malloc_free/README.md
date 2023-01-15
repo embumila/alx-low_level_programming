@@ -1,1 +1,1 @@
-Creating an array of character
+Copping a string as a parameter
