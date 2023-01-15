@@ -1,1 +1,1 @@
-Print all argument received
+Printing the product of two number
