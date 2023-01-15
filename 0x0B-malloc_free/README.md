@@ -1,1 +1,1 @@
-concatinates all the argument
+Spliting a string into two words
