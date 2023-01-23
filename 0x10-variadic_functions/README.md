@@ -1,1 +1,1 @@
-Printing  string
+Function that print anything
