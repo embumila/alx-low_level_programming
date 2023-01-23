@@ -1,1 +1,1 @@
-Return som of the parameter
+Printing a number followed by new line
