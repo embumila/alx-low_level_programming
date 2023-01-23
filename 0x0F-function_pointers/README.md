@@ -1,1 +1,1 @@
-Executing a function
+executing parameter
