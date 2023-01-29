@@ -1,1 +1,1 @@
-ADD NODE AT THE  END OF THE LINKED LIST
+Free the memory
