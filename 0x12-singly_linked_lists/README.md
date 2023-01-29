@@ -1,1 +1,1 @@
-Printing all element of the list
+Finding the number of  element in a list
