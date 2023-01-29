@@ -1,1 +1,1 @@
-Adds new node at the end of the linked list
+ADD NODE AT THE  END OF THE LINKED LIST
