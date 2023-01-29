@@ -1,1 +1,1 @@
-Free the memory
+Printing string before main
