@@ -1,1 +1,1 @@
-Finding the number of  element in a list
+Adds new node at the end of the linked list
