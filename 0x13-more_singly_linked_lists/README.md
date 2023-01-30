@@ -1,1 +1,1 @@
-Print linked list
+Frees linked list
