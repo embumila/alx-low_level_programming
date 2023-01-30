@@ -1,1 +1,1 @@
-frees linkedlist2
+Delete the head node
