@@ -1,1 +1,1 @@
-Add new element in  a list
+Add element at the end of the list
