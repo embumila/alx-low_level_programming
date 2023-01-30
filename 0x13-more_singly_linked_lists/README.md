@@ -1,1 +1,1 @@
-Delete the node at index index
+Reverse a linked list
