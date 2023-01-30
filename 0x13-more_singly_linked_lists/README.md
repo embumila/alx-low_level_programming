@@ -1,1 +1,1 @@
-Reverse a linked list
+Print linked list
