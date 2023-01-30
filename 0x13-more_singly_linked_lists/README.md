@@ -1,1 +1,1 @@
-Add element at the end of the list
+Free linked list
