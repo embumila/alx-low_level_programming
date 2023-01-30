@@ -1,1 +1,1 @@
-Sum all data of a linked list
+Inserts a new node at a given position
