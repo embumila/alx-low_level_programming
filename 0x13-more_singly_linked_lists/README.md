@@ -1,1 +1,1 @@
-Printing all elements in the list
+Number of element in linked list
