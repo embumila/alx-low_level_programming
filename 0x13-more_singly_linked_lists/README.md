@@ -1,1 +1,1 @@
-Return the nth node of the linked list
+Sum all data of a linked list
