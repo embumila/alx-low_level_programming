@@ -1,1 +1,1 @@
-Return number of a bit
+Checking endianess
