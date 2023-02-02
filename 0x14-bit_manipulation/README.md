@@ -1,1 +1,1 @@
-Convert binary number to unassigned int
+Return value of a bit  at a certain index
