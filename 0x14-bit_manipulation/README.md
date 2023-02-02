@@ -1,1 +1,1 @@
-set a value for a bit to 0
+Return number of a bit
