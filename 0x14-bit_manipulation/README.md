@@ -1,1 +1,1 @@
-Return value of a bit  at a certain index
+Get a value of a bit
