@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include <stdio.h>
+x#include "holberton.h"
 /**
  * binary_to_uint - Entry Point
  * @b: const char
