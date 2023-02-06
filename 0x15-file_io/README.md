@@ -1,1 +1,1 @@
-A functio that reads text and prints it to the postfix
+A function tha t create a file=
