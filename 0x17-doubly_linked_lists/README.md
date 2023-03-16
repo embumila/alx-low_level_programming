@@ -1,1 +1,1 @@
-Add new node at the a begining
+Add node at the begining of a dlinklist
