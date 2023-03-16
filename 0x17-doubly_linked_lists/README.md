@@ -1,1 +1,1 @@
-Frees a dlistint_t list
+Return  the nth node of the dlistint_t
