@@ -1,1 +1,1 @@
-Print all element of the distinct_t list
+Add new node at the a begining
