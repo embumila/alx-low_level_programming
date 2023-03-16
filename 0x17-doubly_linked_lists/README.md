@@ -1,1 +1,1 @@
-Add node at the begining of a dlinklist
+Add new node at the end of the dlistint_t list
