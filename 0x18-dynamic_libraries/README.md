@@ -1,1 +1,1 @@
-Creating Dynamic liblaru
+Script for writting liblary
