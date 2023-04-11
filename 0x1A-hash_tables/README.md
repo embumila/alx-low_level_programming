@@ -10,3 +10,5 @@
   3. Add element to the  hashtable
 
   4. Retrival the value associated with the key
+
+  5. Print hashtable
