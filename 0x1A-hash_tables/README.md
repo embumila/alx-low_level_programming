@@ -14,3 +14,5 @@
   5. Print hashtable
 
   6. Delete hash table
+
+  7. Sorted hash table
