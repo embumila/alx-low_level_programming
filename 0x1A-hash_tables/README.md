@@ -12,3 +12,5 @@
   4. Retrival the value associated with the key
 
   5. Print hashtable
+
+  6. Delete hash table
