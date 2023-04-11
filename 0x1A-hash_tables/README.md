@@ -1,8 +1,10 @@
 
 
 
-  1. Creating hash table
+  0. Creating hash table
 
-  2. Takes string and  turn  to hash number
+  1. Takes string and  turn  to hash number
 
-  3. Gives index of  a key
+  2. Gives index of  a key
+
+  3. Add element to the  hashtable
