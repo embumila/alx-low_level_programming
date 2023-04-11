@@ -8,3 +8,5 @@
   2. Gives index of  a key
 
   3. Add element to the  hashtable
+
+  4. Retrival the value associated with the key
